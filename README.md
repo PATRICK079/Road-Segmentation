@@ -27,7 +27,7 @@ The notebook covers the following steps:
 7. Visualize predicted masks on test images
 8. Test the trained model on road videos for practical inspection
 
-## Results
+## Results 
 
 The model produced promising segmentation results on the test split, with strong overall pixel-level accuracy and good road detection performance.
 
